@@ -14,8 +14,7 @@ Follow these steps to set up and run the Spring Boot application locally.
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/springboot-student-crud.git
-
+bash : git clone https://github.com/your-username/springboot-student-crud.git
 
 GET /Students/getAll => returns all the students
 GET /Students/course/{courseName} => returns the students according to the course name parameter
