@@ -13,7 +13,7 @@ Follow these steps to set up and run the Spring Boot application locally.
 
 ### Clone the Repository
 
-```bash
+```
 git clone https://github.com/your-username/springboot-student-crud.git
 
 
@@ -22,11 +22,13 @@ GET /Students/course/{courseName} => returns the students according to the cours
 POST /Students/AddStudent => This API is used add the new student
 PUT /Students/UpdateStudent => This API is used update the student
 DELETE /Students/DeleteStudent => This API is used to delete the student
-
-Technologies Used :
+```
+##Technologies Used :
 Spring Boot
 Spring Data JPA
 Maven
 
-Contributor :
+#Contributor :
 Padmanabh Malwade
+
+Feel free to contribute or open issues if you have any suggestions or improvements!
