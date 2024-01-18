@@ -23,12 +23,12 @@ POST /Students/AddStudent => This API is used add the new student
 PUT /Students/UpdateStudent => This API is used update the student
 DELETE /Students/DeleteStudent => This API is used to delete the student
 ```
-##Technologies Used :
+## Technologies Used :
 Spring Boot
 Spring Data JPA
 Maven
 
-#Contributor :
+# Contributor :
 Padmanabh Malwade
 
 Feel free to contribute or open issues if you have any suggestions or improvements!
