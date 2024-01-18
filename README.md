@@ -8,7 +8,7 @@ Follow these steps to set up and run the Spring Boot application locally.
 
 ### Prerequisites
 
-- Java
+- Java 21 or Later
 - MySQL
 - Maven
 
